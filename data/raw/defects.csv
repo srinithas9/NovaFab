@@ -1,0 +1,563 @@
+batch_number,defect_type,severity,description
+BATCH-CON-001-2026-01-03,Surface Defect,LOW,Minor production variation detected.
+BATCH-CON-001-2026-01-03,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-01-04,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-01-04,Labeling Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-01-05,Labeling Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-01-05,Packaging Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-01-06,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-01-06,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-01-07,Labeling Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-01-08,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-01-09,Labeling Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-01-10,Labeling Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-01-10,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-01-10,Surface Defect,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-01-10,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-01-11,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-01-11,Surface Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-01-12,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-01-12,Packaging Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-01-16,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-01-17,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-01-17,Surface Defect,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-01-18,Assembly Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-01-19,Packaging Defect,MEDIUM,Minor production variation detected.
+BATCH-LAB-001-2026-01-19,Surface Defect,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-01-20,Dimensional Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-01-20,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-01-20,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-01-22,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-01-22,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-01-22,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-01-24,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-01-25,Alignment Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-01-25,Alignment Error,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-01-25,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-01-27,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-01-28,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-01-28,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-01-28,Packaging Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-01-30,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-01-31,Packaging Defect,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-01-31,Weld Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-02-02,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-02-02,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-02-02,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-02-05,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-02-05,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-02-06,Weld Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-02-08,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-02-08,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-02-08,Assembly Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-02-09,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-02-09,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-02-09,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-LAB-001-2026-02-09,Surface Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-02-10,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-02-12,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-02-12,Alignment Error,MEDIUM,Minor production variation detected.
+BATCH-LAB-001-2026-02-15,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-02-15,Alignment Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-02-16,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-02-16,Alignment Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-02-17,Surface Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-02-17,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-02-18,Surface Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-02-18,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-02-19,Labeling Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-02-19,Assembly Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-02-22,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-02-22,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-02-23,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-02-24,Packaging Defect,MEDIUM,Minor production variation detected.
+BATCH-ROB-001-2026-03-01,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-03-01,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-03-04,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-03-05,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-03-05,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-03-05,Packaging Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-03-06,Assembly Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-03-07,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-03-07,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-03-09,Packaging Defect,HIGH,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-03-09,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-LAB-001-2026-03-09,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-03-09,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-03-10,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-03-10,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-03-12,Packaging Defect,LOW,Minor production variation detected.
+BATCH-CON-001-2026-03-12,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-03-12,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-03-15,Labeling Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-03-16,Surface Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-03-16,Labeling Error,MEDIUM,Minor production variation detected.
+BATCH-ROB-002-2026-03-16,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-03-16,Surface Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-03-16,Weld Defect,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-03-17,Surface Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-03-17,Surface Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-03-17,Surface Defect,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-03-18,Labeling Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-03-20,Weld Defect,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-03-20,Surface Defect,HIGH,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-03-24,Surface Defect,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-03-26,Alignment Error,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-03-26,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-03-28,Surface Defect,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-03-28,Labeling Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-04-02,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-04-02,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-04-03,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-PRS-001-2026-04-05,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-04-06,Assembly Error,CRITICAL,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-04-06,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-04-07,Packaging Defect,HIGH,Increased production variation detected.
+BATCH-CNC-002-2026-04-11,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-04-11,Dimensional Error,HIGH,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-04-11,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-04-13,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-04-13,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-04-14,Surface Defect,LOW,Minor production variation detected.
+BATCH-CON-001-2026-04-14,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-04-15,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-04-15,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-04-16,Alignment Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-04-16,Assembly Error,LOW,Increased production variation detected.
+BATCH-CON-001-2026-04-16,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-04-16,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-04-17,Assembly Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-04-17,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-04-19,Packaging Defect,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-04-20,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-ROB-002-2026-04-20,Packaging Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-04-20,Assembly Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-04-21,Packaging Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-04-21,Surface Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-04-23,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-04-23,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-04-25,Packaging Defect,HIGH,Minor production variation detected.
+BATCH-LAB-001-2026-04-25,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-04-26,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-04-27,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-CNC-002-2026-04-27,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-04-27,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-04-27,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-04-27,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-04-27,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-04-28,Packaging Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-04-28,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-04-28,Assembly Error,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-04-28,Surface Defect,CRITICAL,Increased production variation detected.
+BATCH-WLD-001-2026-04-29,Labeling Error,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-04-29,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-04-29,Assembly Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-04-29,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-04-30,Labeling Error,MEDIUM,Minor production variation detected.
+BATCH-WLD-001-2026-04-30,Assembly Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-04-30,Alignment Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-04-30,Alignment Error,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-05-01,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-05-01,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-05-01,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-01,Alignment Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-01,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-05-01,Weld Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-01,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-01,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-02,Packaging Defect,CRITICAL,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-02,Weld Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-02,Labeling Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-05-03,Dimensional Error,HIGH,Minor production variation detected.
+BATCH-CON-001-2026-05-03,Dimensional Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-05-03,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-05-04,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-05-04,Weld Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-04,Packaging Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-04,Alignment Error,LOW,Increased production variation detected.
+BATCH-CON-001-2026-05-05,Surface Defect,LOW,Increased production variation detected.
+BATCH-CON-001-2026-05-05,Weld Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-05-05,Labeling Error,HIGH,Increased production variation detected.
+BATCH-CON-001-2026-05-05,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-05-05,Labeling Error,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-05-06,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-06,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-06,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-05-07,Assembly Error,MEDIUM,Minor production variation detected.
+BATCH-PRS-001-2026-05-07,Labeling Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-05-07,Assembly Error,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-05-07,Labeling Error,HIGH,Increased production variation detected.
+BATCH-PKG-001-2026-05-08,Packaging Defect,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-05-09,Labeling Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-05-09,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-05-09,Packaging Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-05-09,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-002-2026-05-09,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-WLD-001-2026-05-09,Assembly Error,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-05-09,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-05-09,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-05-09,Packaging Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-09,Assembly Error,LOW,Increased production variation detected.
+BATCH-LAB-001-2026-05-10,Dimensional Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-05-10,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-05-11,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-WLD-001-2026-05-11,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-05-11,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-05-11,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-05-12,Assembly Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-05-12,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-05-13,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-05-13,Dimensional Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-05-13,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-05-13,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-002-2026-05-13,Packaging Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-13,Assembly Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-13,Surface Defect,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-05-13,Dimensional Error,CRITICAL,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-13,Alignment Error,HIGH,Increased production variation detected.
+BATCH-ROB-001-2026-05-14,Labeling Error,MEDIUM,Minor production variation detected.
+BATCH-ROB-001-2026-05-14,Alignment Error,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-05-15,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-002-2026-05-15,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-05-15,Packaging Defect,CRITICAL,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-05-16,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-05-16,Surface Defect,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-05-17,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-05-17,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-05-17,Packaging Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-CON-001-2026-05-17,Surface Defect,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-05-17,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-17,Packaging Defect,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-05-17,Surface Defect,CRITICAL,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-05-17,Surface Defect,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-05-17,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-05-17,Alignment Error,HIGH,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-05-17,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-05-20,Surface Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-05-20,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-05-21,Labeling Error,CRITICAL,Increased production variation detected.
+BATCH-CON-001-2026-05-21,Assembly Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-05-22,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-05-27,Surface Defect,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-05-27,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-05-27,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-05-28,Assembly Error,MEDIUM,Minor production variation detected.
+BATCH-ROB-001-2026-05-28,Alignment Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-05-28,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-05-28,Dimensional Error,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-05-29,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-05-29,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-05-29,Labeling Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-05-29,Assembly Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-05-31,Labeling Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-06-01,Surface Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-06-02,Alignment Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-06-04,Dimensional Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-06-05,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-06-05,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-06-06,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-06-06,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-06-10,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-06-11,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-06-11,Surface Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-06-11,Assembly Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-06-11,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-06-11,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-06-12,Alignment Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-06-12,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-06-13,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-06-13,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-06-13,Assembly Error,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-06-14,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-06-14,Packaging Defect,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-06-15,Assembly Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-06-15,Surface Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-06-16,Packaging Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-06-16,Surface Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-06-16,Weld Defect,HIGH,Increased production variation detected.
+BATCH-CNC-001-2026-06-16,Surface Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-06-16,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-06-17,Surface Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-06-17,Labeling Error,LOW,Increased production variation detected.
+BATCH-CNC-002-2026-06-17,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-06-22,Weld Defect,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-06-23,Labeling Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-06-23,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-06-23,Assembly Error,LOW,Increased production variation detected.
+BATCH-ROB-002-2026-06-23,Surface Defect,MEDIUM,Increased production variation detected.
+BATCH-ROB-002-2026-06-23,Alignment Error,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-06-24,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-06-24,Surface Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-06-24,Labeling Error,HIGH,Increased production variation detected.
+BATCH-PRS-001-2026-06-24,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-06-25,Weld Defect,HIGH,Increased production variation detected.
+BATCH-ROB-001-2026-06-25,Dimensional Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-06-25,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-06-26,Alignment Error,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-06-26,Dimensional Error,HIGH,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-06-26,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-06-26,Assembly Error,LOW,Increased production variation detected.
+BATCH-ROB-001-2026-06-28,Weld Defect,HIGH,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-06-28,Labeling Error,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-07-01,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-07-01,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-07-01,Surface Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-07-05,Assembly Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-07-06,Assembly Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-07-07,Weld Defect,LOW,Increased production variation detected.
+BATCH-ROB-002-2026-07-07,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-07-07,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-07-07,Alignment Error,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-07-08,Surface Defect,LOW,Minor production variation detected.
+BATCH-CNC-002-2026-07-12,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-07-13,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-07-13,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-07-13,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-07-13,Assembly Error,HIGH,Increased production variation detected.
+BATCH-PKG-001-2026-07-13,Surface Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-13,Dimensional Error,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-07-14,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-07-14,Packaging Defect,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-07-14,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-07-14,Packaging Defect,HIGH,Increased production variation detected.
+BATCH-PKG-001-2026-07-14,Alignment Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-14,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-14,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-07-15,Packaging Defect,HIGH,Increased production variation detected.
+BATCH-ROB-002-2026-07-15,Dimensional Error,LOW,Minor production variation detected.
+BATCH-CON-001-2026-07-15,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-07-16,Surface Defect,LOW,Increased production variation detected.
+BATCH-CNC-002-2026-07-16,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-07-16,Alignment Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-07-16,Labeling Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-07-17,Packaging Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-07-17,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-WLD-001-2026-07-18,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-07-18,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-07-18,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-07-19,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-07-19,Alignment Error,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-07-19,Surface Defect,LOW,Increased production variation detected.
+BATCH-PKG-001-2026-07-19,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-20,Assembly Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-20,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-07-20,Surface Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PKG-001-2026-07-20,Weld Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-07-21,Alignment Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-07-22,Weld Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-07-24,Surface Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-07-24,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-07-24,Surface Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-07-24,Assembly Error,HIGH,Minor production variation detected.
+BATCH-CON-001-2026-07-24,Alignment Error,MEDIUM,Minor production variation detected.
+BATCH-CON-001-2026-07-24,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-07-25,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-07-25,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-07-25,Surface Defect,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-07-28,Assembly Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-07-28,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-07-28,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-07-28,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-07-28,Assembly Error,HIGH,Minor production variation detected.
+BATCH-LAB-001-2026-07-28,Dimensional Error,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-07-29,Weld Defect,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-07-29,Dimensional Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-07-30,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-07-30,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-08-01,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-08-02,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-08-02,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-03,Weld Defect,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-08-03,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-03,Surface Defect,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-08-03,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-03,Weld Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-05,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-05,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-05,Packaging Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-06,Surface Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-08-06,Assembly Error,LOW,Minor production variation detected.
+BATCH-ROB-002-2026-08-06,Dimensional Error,HIGH,Minor production variation detected.
+BATCH-LAB-001-2026-08-06,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-08-07,Weld Defect,HIGH,Increased production variation detected.
+BATCH-PRS-001-2026-08-07,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-08-07,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-CON-001-2026-08-07,Labeling Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-08-08,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-08,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-08-08,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-08-08,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-08-08,Weld Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-08-08,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-09,Dimensional Error,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-09,Weld Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-10,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-08-11,Surface Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-11,Alignment Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-08-11,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-08-11,Packaging Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-08-11,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-08-12,Packaging Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-08-13,Weld Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-08-13,Weld Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-08-13,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-08-14,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-001-2026-08-14,Alignment Error,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-08-14,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-WLD-001-2026-08-14,Dimensional Error,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-08-15,Weld Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-08-15,Labeling Error,MEDIUM,Minor production variation detected.
+BATCH-PRS-001-2026-08-16,Labeling Error,LOW,Minor production variation detected.
+BATCH-PRS-001-2026-08-16,Assembly Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-08-16,Packaging Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-08-16,Dimensional Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-08-17,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-17,Assembly Error,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-08-17,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-08-17,Weld Defect,MEDIUM,Minor production variation detected.
+BATCH-ROB-001-2026-08-18,Dimensional Error,LOW,Minor production variation detected.
+BATCH-ROB-001-2026-08-18,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-002-2026-08-19,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-20,Alignment Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-22,Weld Defect,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-08-22,Dimensional Error,HIGH,Inspection identified a recurring quality deviation.
+BATCH-CNC-002-2026-08-22,Packaging Defect,LOW,Minor production variation detected.
+BATCH-CNC-001-2026-08-23,Labeling Error,CRITICAL,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-08-23,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-LAB-001-2026-08-24,Alignment Error,LOW,Increased production variation detected.
+BATCH-WLD-001-2026-08-25,Packaging Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-08-25,Surface Defect,LOW,Minor production variation detected.
+BATCH-WLD-001-2026-08-26,Packaging Defect,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PKG-001-2026-08-26,Weld Defect,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-08-26,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-08-28,Alignment Error,HIGH,Increased production variation detected.
+BATCH-CNC-001-2026-08-28,Alignment Error,HIGH,Increased production variation detected.
+BATCH-CNC-001-2026-08-28,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-08-28,Alignment Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-08-28,Assembly Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CON-001-2026-08-28,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-08-29,Weld Defect,HIGH,Increased production variation detected.
+BATCH-ROB-002-2026-08-29,Weld Defect,LOW,Increased production variation detected.
+BATCH-LAB-001-2026-08-29,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-08-29,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-08-29,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-08-29,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-LAB-001-2026-08-29,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-ROB-002-2026-08-30,Surface Defect,LOW,Increased production variation detected.
+BATCH-ROB-002-2026-08-30,Labeling Error,HIGH,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-08-30,Assembly Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-08-30,Alignment Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-08-30,Surface Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-08-31,Surface Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-31,Alignment Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-08-31,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-08-31,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-08-31,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-08-31,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-08-31,Weld Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-WLD-001-2026-08-31,Assembly Error,LOW,Increased production variation detected.
+BATCH-WLD-001-2026-08-31,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-08-31,Weld Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-ROB-002-2026-08-31,Packaging Defect,MEDIUM,Increased production variation detected.
+BATCH-ROB-002-2026-08-31,Assembly Error,MEDIUM,Increased production variation detected.
+BATCH-ROB-002-2026-08-31,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-08-31,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-01,Surface Defect,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-01,Dimensional Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-01,Dimensional Error,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-09-01,Packaging Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-02,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-02,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-ROB-001-2026-09-02,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-04,Alignment Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-04,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-04,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-09-04,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-04,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-09-04,Labeling Error,LOW,Small surface or dimensional deviation observed.
+BATCH-ROB-002-2026-09-04,Labeling Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-09-04,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-05,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-09-07,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-07,Alignment Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-09-07,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-08,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-08,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-08,Dimensional Error,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-08,Dimensional Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-09,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-09,Labeling Error,LOW,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-09-11,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-09-11,Surface Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-09-12,Weld Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-CNC-002-2026-09-12,Labeling Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-PRS-001-2026-09-13,Labeling Error,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-13,Dimensional Error,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-09-13,Assembly Error,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-09-13,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-13,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-WLD-001-2026-09-14,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CON-001-2026-09-15,Alignment Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-09-16,Weld Defect,HIGH,Increased production variation detected.
+BATCH-CNC-001-2026-09-16,Weld Defect,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-09-16,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-16,Alignment Error,HIGH,Increased production variation detected.
+BATCH-CNC-002-2026-09-16,Surface Defect,LOW,Minor production variation detected.
+BATCH-LAB-001-2026-09-16,Dimensional Error,MEDIUM,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-09-16,Dimensional Error,LOW,Minor production variation detected.
+BATCH-PKG-001-2026-09-17,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-PKG-001-2026-09-17,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-09-17,Surface Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-ROB-002-2026-09-18,Weld Defect,LOW,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-09-19,Dimensional Error,LOW,Increased production variation detected.
+BATCH-CNC-001-2026-09-19,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-21,Assembly Error,MEDIUM,Increased production variation detected.
+BATCH-WLD-001-2026-09-23,Assembly Error,LOW,Small surface or dimensional deviation observed.
+BATCH-LAB-001-2026-09-23,Packaging Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-LAB-001-2026-09-23,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-PKG-001-2026-09-24,Surface Defect,HIGH,Small surface or dimensional deviation observed.
+BATCH-CNC-001-2026-09-25,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-CNC-001-2026-09-25,Labeling Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-09-25,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-25,Alignment Error,LOW,Increased production variation detected.
+BATCH-ROB-001-2026-09-25,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-25,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-25,Surface Defect,MEDIUM,Increased production variation detected.
+BATCH-ROB-001-2026-09-25,Weld Defect,LOW,Increased production variation detected.
+BATCH-LAB-001-2026-09-25,Weld Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-09-25,Surface Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-09-27,Surface Defect,LOW,Increased production variation detected.
+BATCH-LAB-001-2026-09-27,Weld Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-LAB-001-2026-09-27,Assembly Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-09-28,Dimensional Error,MEDIUM,Increased production variation detected.
+BATCH-CNC-001-2026-09-28,Labeling Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-CNC-001-2026-09-28,Dimensional Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-28,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-28,Weld Defect,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-28,Dimensional Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-28,Packaging Defect,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-28,Labeling Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-28,Surface Defect,HIGH,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-28,Labeling Error,MEDIUM,Increased production variation detected.
+BATCH-ROB-001-2026-09-28,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-28,Labeling Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-28,Packaging Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-LAB-001-2026-09-28,Alignment Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-09-28,Assembly Error,HIGH,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-09-28,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-LAB-001-2026-09-28,Weld Defect,MEDIUM,Increased production variation detected.
+BATCH-PRS-001-2026-09-29,Alignment Error,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-29,Packaging Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-29,Labeling Error,LOW,Increased production variation detected.
+BATCH-PRS-001-2026-09-29,Weld Defect,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-29,Alignment Error,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-29,Packaging Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-29,Assembly Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-ROB-001-2026-09-29,Alignment Error,MEDIUM,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-30,Alignment Error,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-PRS-001-2026-09-30,Packaging Defect,LOW,Machine condition may be contributing to the defect.
+BATCH-PRS-001-2026-09-30,Surface Defect,MEDIUM,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-30,Surface Defect,LOW,Inspection identified a recurring quality deviation.
+BATCH-ROB-001-2026-09-30,Assembly Error,LOW,Machine condition may be contributing to the defect.
+BATCH-LAB-001-2026-09-30,Weld Defect,HIGH,Inspection identified a recurring quality deviation.
+BATCH-LAB-001-2026-09-30,Surface Defect,LOW,Increased production variation detected.

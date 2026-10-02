@@ -1,0 +1,67 @@
+machine_code,maintenance_type,status,scheduled_date,completed_date,description,technician_notes
+ROB-002,CORRECTIVE,COMPLETED,2026-01-12,2026-01-13,Corrective maintenance performed following abnormal machine behavior.,Sensor readings should be monitored.
+CON-001,CORRECTIVE,COMPLETED,2026-01-17,2026-01-19,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+CNC-001,PREVENTIVE,COMPLETED,2026-01-23,2026-01-26,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+WLD-001,CORRECTIVE,COMPLETED,2026-01-27,2026-01-27,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+LAB-001,CORRECTIVE,COMPLETED,2026-01-28,2026-01-28,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+CON-001,CORRECTIVE,COMPLETED,2026-01-30,2026-02-01,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+ROB-001,PREVENTIVE,COMPLETED,2026-01-31,2026-02-01,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+PRS-001,PREVENTIVE,COMPLETED,2026-02-03,2026-02-04,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+PKG-001,PREVENTIVE,COMPLETED,2026-02-04,2026-02-06,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+CNC-002,PREVENTIVE,COMPLETED,2026-02-23,2026-02-26,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+ROB-001,PREVENTIVE,COMPLETED,2026-03-03,2026-03-06,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+CNC-001,PREVENTIVE,COMPLETED,2026-03-07,2026-03-08,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+LAB-001,PREVENTIVE,COMPLETED,2026-03-07,2026-03-09,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+PRS-001,PREVENTIVE,COMPLETED,2026-03-10,2026-03-12,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-002,PREVENTIVE,COMPLETED,2026-03-12,2026-03-13,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+WLD-001,PREVENTIVE,COMPLETED,2026-03-15,2026-03-17,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+ROB-002,INSPECTION,COMPLETED,2026-03-20,2026-03-20,Machine inspection performed to assess operating condition.,Machine condition inspected.
+CON-001,PREVENTIVE,COMPLETED,2026-03-24,2026-03-27,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+CNC-001,CORRECTIVE,COMPLETED,2026-03-25,2026-03-28,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+PKG-001,PREVENTIVE,COMPLETED,2026-03-26,2026-03-27,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+PRS-001,CORRECTIVE,COMPLETED,2026-04-02,2026-04-03,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+ROB-001,PREVENTIVE,COMPLETED,2026-04-02,2026-04-04,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+LAB-001,PREVENTIVE,COMPLETED,2026-04-15,2026-04-17,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+CNC-002,PREVENTIVE,COMPLETED,2026-04-17,2026-04-19,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+WLD-001,PREVENTIVE,COMPLETED,2026-04-17,2026-04-17,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+ROB-002,INSPECTION,COMPLETED,2026-04-28,2026-05-01,Machine inspection performed to assess operating condition.,Machine condition inspected.
+CNC-001,PREVENTIVE,COMPLETED,2026-05-08,2026-05-08,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+PRS-001,PREVENTIVE,COMPLETED,2026-05-16,2026-05-18,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CNC-002,CORRECTIVE,COMPLETED,2026-05-17,2026-05-18,Corrective maintenance performed following abnormal machine behavior.,Early signs of machine degradation observed.
+WLD-001,PREVENTIVE,COMPLETED,2026-05-17,2026-05-20,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+LAB-001,PREVENTIVE,COMPLETED,2026-05-17,2026-05-17,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CON-001,PREVENTIVE,COMPLETED,2026-05-22,2026-05-23,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+ROB-001,PREVENTIVE,COMPLETED,2026-05-23,2026-05-25,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+LAB-001,PREVENTIVE,COMPLETED,2026-05-24,2026-05-25,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+PKG-001,PREVENTIVE,COMPLETED,2026-05-25,2026-05-28,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+CON-001,PREVENTIVE,COMPLETED,2026-05-26,2026-05-27,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-002,PREVENTIVE,COMPLETED,2026-06-01,2026-06-02,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+PKG-001,PREVENTIVE,COMPLETED,2026-06-16,2026-06-18,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CNC-002,PREVENTIVE,COMPLETED,2026-06-21,2026-06-24,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+WLD-001,PREVENTIVE,COMPLETED,2026-06-23,2026-06-26,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+PRS-001,PREVENTIVE,COMPLETED,2026-06-27,2026-06-30,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-001,INSPECTION,COMPLETED,2026-06-28,2026-06-29,Machine inspection performed to assess operating condition.,Inspection completed without major findings.
+CNC-001,PREVENTIVE,COMPLETED,2026-07-07,2026-07-07,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-002,INSPECTION,COMPLETED,2026-07-13,2026-07-15,Machine inspection performed to assess operating condition.,Additional monitoring recommended.
+CON-001,PREVENTIVE,COMPLETED,2026-07-16,2026-07-16,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CNC-002,CORRECTIVE,COMPLETED,2026-07-19,2026-07-20,Corrective maintenance performed following abnormal machine behavior.,Sensor readings should be monitored.
+CON-001,PREVENTIVE,COMPLETED,2026-07-22,2026-07-25,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+PKG-001,PREVENTIVE,COMPLETED,2026-07-22,2026-07-23,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+LAB-001,PREVENTIVE,COMPLETED,2026-07-23,2026-07-23,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+ROB-001,PREVENTIVE,COMPLETED,2026-07-29,2026-07-30,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+ROB-002,INSPECTION,COMPLETED,2026-08-03,2026-08-04,Machine inspection performed to assess operating condition.,Additional monitoring recommended.
+PKG-001,PREVENTIVE,COMPLETED,2026-08-06,2026-08-09,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+WLD-001,PREVENTIVE,COMPLETED,2026-08-10,2026-08-10,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+PRS-001,PREVENTIVE,COMPLETED,2026-08-14,2026-08-15,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CNC-002,PREVENTIVE,COMPLETED,2026-08-20,2026-08-22,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+LAB-001,PREVENTIVE,COMPLETED,2026-08-30,2026-08-30,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+CON-001,PREVENTIVE,COMPLETED,2026-09-02,2026-09-03,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+WLD-001,PREVENTIVE,COMPLETED,2026-09-03,2026-09-03,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+CNC-001,PREVENTIVE,COMPLETED,2026-09-04,2026-09-05,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-001,PREVENTIVE,COMPLETED,2026-09-04,2026-09-06,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+ROB-002,PREVENTIVE,COMPLETED,2026-09-09,2026-09-12,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+PKG-001,PREVENTIVE,COMPLETED,2026-09-20,2026-09-21,Routine preventive maintenance performed to maintain machine operating condition.,Preventive service completed as scheduled.
+WLD-001,PREVENTIVE,COMPLETED,2026-09-22,2026-09-23,Routine preventive maintenance performed to maintain machine operating condition.,Routine maintenance completed successfully.
+PKG-001,PREVENTIVE,COMPLETED,2026-09-22,2026-09-23,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+CNC-002,PREVENTIVE,COMPLETED,2026-09-23,2026-09-23,Routine preventive maintenance performed to maintain machine operating condition.,Machine operating within expected range.
+WLD-001,CORRECTIVE,COMPLETED,2026-09-24,2026-09-25,Corrective maintenance performed following abnormal machine behavior.,Sensor readings should be monitored.

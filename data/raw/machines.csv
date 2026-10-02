@@ -1,0 +1,10 @@
+machine_code,factory_code,name,machine_type,installation_date,is_active
+CNC-001,NF-PLANT-01,CNC Machining Center A1,CNC,2024-01-01,True
+PRS-001,NF-PLANT-01,Hydraulic Press A1,Press,2024-01-01,True
+ROB-001,NF-PLANT-01,Assembly Robot A1,Robot,2024-01-01,True
+CNC-002,NF-PLANT-01,CNC Machining Center B1,CNC,2024-01-01,True
+WLD-001,NF-PLANT-01,Robotic Welding Cell B1,Welding,2024-01-01,True
+ROB-002,NF-PLANT-01,Assembly Robot B1,Robot,2024-01-01,True
+CON-001,NF-PLANT-01,Main Conveyor C1,Conveyor,2024-01-01,True
+PKG-001,NF-PLANT-01,Automated Packaging C1,Packaging,2024-01-01,True
+LAB-001,NF-PLANT-01,Labeling Machine C1,Labeling,2024-01-01,True
