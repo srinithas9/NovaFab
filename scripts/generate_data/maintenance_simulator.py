@@ -14,12 +14,18 @@ class MaintenanceSimulator:
     """
     Generates maintenance events based on scheduled dates
     and machine health conditions.
+
+    Preventive maintenance is calendar-driven.
+
+    Corrective maintenance is condition-driven:
+    as machine health deteriorates, the probability of
+    corrective maintenance increases significantly.
     """
 
     def __init__(
         self,
         seed: int = 42,
-        corrective_probability: float = 0.01,
+        corrective_probability: float = 0.001,
     ):
         self.random = random.Random(seed)
         self.corrective_probability = corrective_probability
@@ -28,13 +34,6 @@ class MaintenanceSimulator:
         self,
         current_date: date,
     ) -> date:
-        """
-        Schedule the next preventive maintenance date.
-
-        The interval is randomly selected from the configured
-        preventive-maintenance range.
-        """
-
         minimum_days, maximum_days = PREVENTIVE_MAINTENANCE_DAYS
 
         interval_days = self.random.randint(
@@ -58,24 +57,59 @@ class MaintenanceSimulator:
         Preventive maintenance is date-driven.
 
         Corrective maintenance is condition-driven.
+        The probability increases sharply as machine
+        health deteriorates.
         """
 
-        # Preventive maintenance is due.
         if current_date >= next_preventive_date:
             return True
 
-        # At-risk machines can require corrective maintenance
-        # before their preventive date.
-        if machine_health.state == HealthState.AT_RISK:
-            return self.random.random() < 0.10
+        corrective_probability = (
+            self._get_corrective_probability(
+                machine_health.score
+            )
+        )
 
-        # Degrading machines have a smaller chance of
-        # requiring corrective intervention.
-        if machine_health.state == HealthState.DEGRADING:
-            return self.random.random() < 0.03
+        return (
+            self.random.random()
+            < corrective_probability
+        )
 
-        # Healthy machines rarely need unexpected maintenance.
-        return self.random.random() < self.corrective_probability
+    def _get_corrective_probability(
+        self,
+        health_score: float,
+    ) -> float:
+        """
+        Return the daily probability of corrective maintenance
+        based on the current machine health score.
+
+        Corrective risk increases as machine health deteriorates.
+
+        Health score:
+            >= 0.85 -> very low corrective risk
+            0.80-0.85 -> low corrective risk
+            0.75-0.80 -> elevated corrective risk
+            0.70-0.75 -> high corrective risk
+            0.60-0.70 -> very high corrective risk
+            < 0.60 -> critical corrective risk
+        """
+
+        if health_score >= 0.85:
+            return self.corrective_probability
+
+        if health_score >= 0.80:
+            return 0.010
+
+        if health_score >= 0.75:
+            return 0.100
+
+        if health_score >= 0.70:
+            return 0.250
+
+        if health_score >= 0.60:
+            return 0.400
+
+        return 0.600
 
     def generate_record(
         self,
@@ -83,17 +117,13 @@ class MaintenanceSimulator:
         scheduled_date: date,
         preventive_due: bool = False,
     ) -> dict:
-        """
-        Generate one maintenance record.
-        """
-
         maintenance_type = self._generate_type(
             machine_health.state,
             preventive_due,
         )
 
         status = self._generate_status(
-            machine_health.state
+            machine_health.state,
         )
 
         completed_date = self._generate_completed_date(
@@ -130,7 +160,11 @@ class MaintenanceSimulator:
 
         if health_state == HealthState.AT_RISK:
             return self.random.choice(
-                ["CORRECTIVE", "CORRECTIVE", "INSPECTION"]
+                [
+                    "CORRECTIVE",
+                    "CORRECTIVE",
+                    "INSPECTION",
+                ]
             )
 
         if health_state == HealthState.DEGRADING:
@@ -146,10 +180,8 @@ class MaintenanceSimulator:
         return self.random.choices(
             MAINTENANCE_TYPES,
             weights=[
-                MAINTENANCE_TYPE_WEIGHTS[
-                    maintenance_type
-                ]
-                for maintenance_type in MAINTENANCE_TYPES
+                MAINTENANCE_TYPE_WEIGHTS[t]
+                for t in MAINTENANCE_TYPES
             ],
             k=1,
         )[0]
@@ -160,7 +192,10 @@ class MaintenanceSimulator:
     ) -> str:
         if health_state == HealthState.AT_RISK:
             return self.random.choice(
-                ["IN_PROGRESS", "COMPLETED"]
+                [
+                    "IN_PROGRESS",
+                    "COMPLETED",
+                ]
             )
 
         return self.random.choices(
